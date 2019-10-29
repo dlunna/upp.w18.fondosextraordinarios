@@ -16,7 +16,7 @@
 
     <nav>
       <!-- Menu principal superior -->
-      <?php include ('../lib18/coreFRONTx/01header/nav/menu-superior/menu.html'); ?>
+      <?php //include ('../lib18/coreFRONTx/01header/nav/menu-superior/menu.html'); ?>
     </nav>
 
   </header>
@@ -27,11 +27,13 @@
     <div class="container marketing">
 
       <br />
-      <p>Apartado de fondos extraordinarios de la UPPachuca, si desea acceder al sitio anterior visite XXX<br />
-        <a href="../fondosextraordinarios/">http://www.upp.edu.mx/fondosextraordinarios/</a></p>
-      <ul>
-        <li><a href="#">#</a></li>
-      </ul>
+      <p>Apartado de fondos extraordinarios de la UPPachuca, si desea acceder al sitio anterior visite:<br />
+        <a href="http://www.upp.edu.mx/4esp/index.php/ley-general-de-contabilidad-gubernamental">http://www.upp.edu.mx/4esp/index.php/ley-general-de-contabilidad-gubernamental</a></p>
+        <hr />
+        <br />
+        <br />
+
+
 
 
       <a id="prodep"></a>
